@@ -1,0 +1,5 @@
+nav span{visibility: hidden}
+nav li {
+    color: #262626;
+    cursor: pointer;
+}

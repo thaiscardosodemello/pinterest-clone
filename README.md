@@ -25,19 +25,19 @@ O objetivo deste projeto é construir uma réplica básica da tela de login e da
 ## Estrutura do Projeto
 - `src/`
   - `components/`
-    - `pages/`
-    - `Categorias.tsx`
-    - `Header.tsx`
-    - `Home.tsx`
-    - `Login.tsx`
-    - `Main.tsx`
-    - `SideBarNav.tsx`
+  - `Categorias.tsx`
+  - `Header.tsx`
+  - `PinCard.tsx`
+  - `SideBarNav.tsx`
   - `styled/`
     - `Botao.tsx`
     - `Categorias.css`
-    - `Home.css`
-    - `InputBuscar.tsx`
+    - `Contador.tsx`
     - `Login.css`
+    - `SideBarNavigation.css`
+  - `pages/`
+    - `Home.tsx`
+    - `Login.tsx`
   - `App.tsx`
 
 ## Boas Práticas
@@ -46,10 +46,16 @@ O objetivo deste projeto é construir uma réplica básica da tela de login e da
 - Limpeza do código.
 
 ## Capturas de Tela
-### Tela de Login
+### Tela de Login Original
+![Tela de Login](./src/assets/login.png)
+
+### Tela de Login Clonada
 ![Tela de Login](./src/assets/login-clone.png)
 
-### Tela Home
+### Tela Home Original
+![Tela Home](./src/assets/home.png)
+
+### Tela Home Clonada
 ![Tela Home](./src/assets/home-clone.png)
 
 ## Conclusão

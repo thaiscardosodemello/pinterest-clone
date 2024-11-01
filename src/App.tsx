@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; // importa componentes para gerenciamento de rotas
-import { Home } from './components/pages/Home';
-import { Login } from './components/pages/Login';
+import { Home } from './pages/Home';
+import { Login } from './pages/Login';
 
 export default function App() {
   return (
