@@ -1,0 +1,10 @@
+.categorias ul li {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0 8px;
+    cursor: pointer;
+}
+.active {
+    border-bottom: 3px solid;
+    padding: 8px 0;
+}

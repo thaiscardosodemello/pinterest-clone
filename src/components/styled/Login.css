@@ -1,0 +1,21 @@
+.bg-custom {
+    background-image: url('../../assets/bg.png');
+    background-size: cover;
+    background-position: top center;
+}
+.texto-container {
+    color: #767676; 
+}
+.link {
+    color: black;
+}
+.linha {
+    border: none;
+    border-top: 1px solid #cecece;
+    margin: 10px auto;
+    width: 10rem;
+    text-align: center;
+}
+.sideBar{
+    border-right: 1px solid #cecece; 
+}
